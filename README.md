@@ -29,4 +29,25 @@ _Cursiva_
 4. ItemD
    * ItemCa
    * ItemCb
-   
+
+## LINKS
+https://github.com
+[Pagina principal de git](https://github.com)
+
+##BLOCKQUOTES
+> javac *.java
+
+**OTROS COMANDOS**
+> java Main
+
+##Fenced code blocks
+```bash
+javac *.java
+```
+
+#Task list
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+- [ ] Actividad 4
+
