@@ -47,7 +47,7 @@ javac *.java
 
 #Task list
 - [ ] Tarea 1
-- [ ] Tarea 2
+- [X] Tarea 2
 - [ ] Tarea 3
-- [ ] Actividad 4
+- [X] Actividad 4
 
