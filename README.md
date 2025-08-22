@@ -34,18 +34,18 @@ _Cursiva_
 https://github.com
 [Pagina principal de git](https://github.com)
 
-##BLOCKQUOTES
+## BLOCKQUOTES
 > javac *.java
 
 **OTROS COMANDOS**
 > java Main
 
-##Fenced code blocks
+# Fenced code blocks
 ```bash
 javac *.java
 ```
 
-#Task list
+# Task list
 - [ ] Tarea 1
 - [X] Tarea 2
 - [ ] Tarea 3
