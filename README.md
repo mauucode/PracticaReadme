@@ -51,3 +51,9 @@ javac *.java
 - [ ] Tarea 3
 - [X] Actividad 4
 
+# Tablas
+First Name | Last Name
+-----------|------------
+Mauricio | Pulido
+Beatriz | Lagunes
+
